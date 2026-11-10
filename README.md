@@ -23,3 +23,9 @@ The aim is to support a parent's judgment while making room for a teenager's per
 Describe what happened and what you are thinking of doing. Work through one short question at a time, try editable wording, or ask for an immediate next step. Leave with a takeaway you can copy or optionally save on your device.
 
 Similar-situation examples are fictional illustrations; their outcomes are not predictions.
+
+## For teens
+
+A separate experience invites ages 13–17 to share what they wish parents understood, skip questions, and preview their story before submitting. Stories enter a pending queue, with a receipt for deletion.
+
+Moderation is currently locked. Submissions do not inform the companion. The PS5 raffle is a coming-soon concept and accepts no entries.
