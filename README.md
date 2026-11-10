@@ -11,3 +11,9 @@ This repository is a concise project showcase.
 [Pause on Replit](https://replit.com/replid/d6a42170-1728-4ded-8f8a-d1e5ba7764b9)
 
 This is the project link, not a verified live deployment. The preview may need to be started in Replit.
+
+## The idea
+
+A teenager slams a door. A parent feels hurt and is about to react. Pause helps them consider what they want to achieve before choosing their next words.
+
+The aim is to support a parent's judgment while making room for a teenager's perspective.
