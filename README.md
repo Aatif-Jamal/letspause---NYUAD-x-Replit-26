@@ -29,3 +29,9 @@ Similar-situation examples are fictional illustrations; their outcomes are not p
 A separate experience invites ages 13–17 to share what they wish parents understood, skip questions, and preview their story before submitting. Stories enter a pending queue, with a receipt for deletion.
 
 Moderation is currently locked. Submissions do not inform the companion. The PS5 raffle is a coming-soon concept and accepts no entries.
+
+## Prototype status
+
+The companion currently uses labeled, rule-based demo responses rather than live AI. Safety interruption relies on limited keyword matching. This is a hackathon prototype, not a validated support service.
+
+App behavior is summarized from Replit's last verified implementation report; it has not been freshly tested for this showcase. Source code remains in Replit.
