@@ -35,3 +35,16 @@ Moderation is currently locked. Submissions do not inform the companion. The PS5
 The companion currently uses labeled, rule-based demo responses rather than live AI. Safety interruption relies on limited keyword matching. This is a hackathon prototype, not a validated support service.
 
 App behavior is summarized from Replit's last verified implementation report; it has not been freshly tested for this showcase. Source code remains in Replit.
+
+## Two ways into Pause
+
+![Concept flow showing separate parent reflection and teen submission journeys](assets/pause-flow.svg)
+
+The visual explains the concept; it is not an application screenshot. The design direction pairs a calm, warm parent experience with a more expressive teen experience.
+
+## Quick guides
+
+- [One-minute demo](docs/demo.md)
+- [Privacy and demo boundaries](docs/privacy.md)
+
+Next priorities: test with parents and teens, review safeguarding and moderation, and evaluate whether the questions help people choose a useful next step.
